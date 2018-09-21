@@ -1,0 +1,9 @@
+classes=2
+train  = /media/lincolnhard/LHDISK1T/UrbanSound/graph/train.list
+#valid  = /media/lincolnhard/LHDISK1T/UrbanSound/graph/train.list
+#valid  = /media/lincolnhard/LHDISK1T/UrbanSound/graph/test.list
+valid  = /media/lincolnhard/LHDISK1T/ESC-50/graph/test.list
+#valid = /media/lincolnhard/LHDISK1T/building_106_kitchen/building_106_kitchen/graph/train.list
+labels = /media/lincolnhard/LHDISK1T/UrbanSound/graph/labels.txt
+backup = backup/
+top=1
