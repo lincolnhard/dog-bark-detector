@@ -4,10 +4,11 @@ Detect dog bark from CNN based spectrogram classification
 
 ## Requirement
 
-Dataset:
+Dataset:  
 [Urbansound](https://urbansounddataset.weebly.com/urbansound.html) (training/testing set)  
 [ESC-50](https://github.com/karoldvl/ESC-50) (testing set)  
-[Freiburg 106](http://www.csc.kth.se/~jastork/pages/datasets.html) (training set, negative samples)  
+[Freiburg 106](http://www.csc.kth.se/~jastork/pages/datasets.html) (training set, negative samples)    
+
 3rdparty libraries:  
 [libsndfile](http://www.mega-nerd.com/libsndfile/#Download)  
 [fftw3](http://www.fftw.org/download.html)  
